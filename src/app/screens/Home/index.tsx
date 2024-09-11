@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import { Text, View, TextInput, TouchableOpacity, FlatList, Alert } from 'react-native';
 
-import { Participant } from '@/src/components/Participant';
+import { Participant } from '@/src/app/components/Participant';
 
 import { styles } from './styles';
 
